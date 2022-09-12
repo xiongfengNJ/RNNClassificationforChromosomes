@@ -1,1 +1,1 @@
-# RNNClassificationforChrosomes
+# RNNClassificationforChromosomes
